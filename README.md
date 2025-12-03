@@ -1,5 +1,5 @@
 # 💫 About Me:
-###¡Hola! Soy Felipe 👋. Estudiante de Ingeniería fascinado por cómo funciona la tecnología. Mi meta es pasar de la teoría a la práctica creando soluciones reales.<br><br>Más allá del código, soy una persona sociable que valora el trabajo en equipo. Me mantengo activo haciendo deporte 🏃‍♂️ y no puedo programar sin buena música de fondo 🎵."
+### ¡Hola! Soy Felipe 👋. Estudiante de Ingeniería fascinado por cómo funciona la tecnología. Mi meta es pasar de la teoría a la práctica creando soluciones reales.<br><br>Más allá del código, soy una persona sociable que valora el trabajo en equipo. Me mantengo activo haciendo deporte 🏃‍♂️ y no puedo programar sin buena música de fondo 🎵."
 
 
 # 💻 Tech Stack:
